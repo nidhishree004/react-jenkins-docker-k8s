@@ -1,1 +1,5 @@
-# react-jenkins-docker-k8s
+<<<<<<< HEAD
+// Your local changes
+=======
+// Changes from the remote repository
+>>>>>>> origin/main
